@@ -32,6 +32,9 @@ const main = async () => {
             title: "New Post Title",
             content: "This is a new post.",
             published: false,
+            authorUser: {
+                connect: { id: 1 } // Replace '1' with a valid user id
+            }
         },
     })
 }
