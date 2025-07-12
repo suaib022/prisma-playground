@@ -12,7 +12,7 @@ const main = async () => {
 //   });
 
 const getAllPosts = await prisma.post.findMany();
-console.log(getAllPosts);
+// console.log(getAllPosts);
 };
 
 main();
