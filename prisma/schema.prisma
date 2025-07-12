@@ -26,6 +26,7 @@ model user {
   id        Int      @id @default(autoincrement())
   username String   @unique
   email     String
+  age       Int @default(0)
   role      userRole @default(USER)
   // createdAt DateTime @default(now())
   // updatedAt DateTime @updatedAt
