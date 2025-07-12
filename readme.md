@@ -2,8 +2,6 @@
 
 Welcome to the **Prisma Playground** – your all-in-one learning hub to master **Prisma** ORM with hands-on examples and clear concepts.
 
-![Prisma](https://raw.githubusercontent.com/prisma/docs/main/static/img/prisma-logo.svg)
-
 ---
 
 ## 📚 Table of Contents
